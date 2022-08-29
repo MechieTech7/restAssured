@@ -1,0 +1,22 @@
+{
+  "data" : {
+
+    "id" : 7,
+
+    "leagueId" : 11,
+    "homeTeam" : "Csk",
+    "oppTeam"  : "Mi",
+    "Players"  :  11,
+    "Trophies" :  4
+  },
+  "odds":[
+    {
+      "base" : 1,
+      "name" : "Ms"
+    },
+    {
+      "base" : 2,
+      "name" : "Hit"
+    }
+  ]
+}
